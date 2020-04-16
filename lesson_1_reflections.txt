@@ -1,0 +1,6 @@
+This is the first line to the file
+this is the second line on the version control reflection to this file
+The version control like Git allow saving multiple file, its because, files that relates to code repository might be inter-dependant on each other. A change in one file is reflected across other files in the package
+You can use git command log to view commit is, commit message, commit date and details. 
+While we can use commit diff to check the lines and where changes were made to the file. The command is: git diff previous commit id  recent commit id
+I will use git to keep track of different versions of my files and code. detail description of the changes made to the file.
