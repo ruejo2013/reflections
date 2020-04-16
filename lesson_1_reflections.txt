@@ -4,3 +4,7 @@ The version control like Git allow saving multiple file, its because, files that
 You can use git command log to view commit is, commit message, commit date and details. 
 While we can use commit diff to check the lines and where changes were made to the file. The command is: git diff previous commit id  recent commit id
 I will use git to keep track of different versions of my files and code. detail description of the changes made to the file.
+
+Question 4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When we want to make changes/test to our code, and fear not to break the main code. Make a copy of the code, make the changes and test the changes.
+It help us ensure that, changes are tried, tested and working before they are added to the main code. It also helps us, not interupt deployed project or code, while we are making changes. 
