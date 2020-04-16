@@ -16,3 +16,9 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+
+The staging area serve as an intermedite point, where you make changes to your file, before they are committed. 
+It add value such as, that changes can be made temporarily, and reverted if we think to. Before changes are committed. 
+
+The staging area serves as a transient point. Changes to be committed are only effected if the file is in the staging area. Meaning changes and commit are delibrate. Because of the extra step of moving the file to the staging area. 
