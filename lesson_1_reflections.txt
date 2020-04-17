@@ -8,3 +8,6 @@ I will use git to keep track of different versions of my files and code. detail 
 Question 4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When we want to make changes/test to our code, and fear not to break the main code. Make a copy of the code, make the changes and test the changes.
 It help us ensure that, changes are tried, tested and working before they are added to the main code. It also helps us, not interupt deployed project or code, while we are making changes. 
+
+Question 5: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The branches become one node, the master. The changes on both branches are applied to the new master node. Commit can still be tracked even when the branch nolonger exist. 
