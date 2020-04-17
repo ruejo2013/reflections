@@ -22,3 +22,7 @@ The staging area serve as an intermedite point, where you make changes to your f
 It add value such as, that changes can be made temporarily, and reverted if we think to. Before changes are committed. 
 
 The staging area serves as a transient point. Changes to be committed are only effected if the file is in the staging area. Meaning changes and commit are delibrate. Because of the extra step of moving the file to the staging area. 
+
+Question: How do the diagrams help you visualize the branch structure?
+
+It helps us know which branchs are interconnected. That is which can be seen by a parent or child commit. 
