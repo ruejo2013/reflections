@@ -11,3 +11,6 @@ It help us ensure that, changes are tried, tested and working before they are ad
 
 Question 5: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The branches become one node, the master. The changes on both branches are applied to the new master node. Commit can still be tracked even when the branch nolonger exist. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merge will keep the file insync and merge conflict are noticed immediately, however manual merging are delibrate, and conflicts may be hard to find when troubleshooting. 
