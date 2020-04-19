@@ -1,0 +1,2 @@
+Question: When would you want to create a remote repository rather than keeping all your work local?
+For the purpose of collaboration. Space, security and easy access of the repository from anywhere even when i dont have my local machine. 
